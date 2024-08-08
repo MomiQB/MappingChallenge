@@ -11,7 +11,14 @@ The **Mapping Challenge Dataset** (available at https://www.aicrowd.com/challeng
 
 In this project, only the validation part of the dataset will be used, with the corresponding annotations. The **goal** is to design and train a robust model to perform binary segmentation and detect the buildings. Image processing techniques will be applied to further improve the quality of the predicted masks.
 
-***Content:***
+### _Usage_:
+- Go to https://www.aicrowd.com/challenges/mapping-challenge/dataset_files and download the file val.tar.gz (830 MB)
+-	Rename the zip file ‘mappingDataset’
+-	Upload on Kaggle or on Colab
+
+  When running the notebook, be careful to write the correct path to the folder with the mappingDataset.tar file in the cell with the file extraction.
+
+### _Content:_
 - 
 
 
