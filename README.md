@@ -19,7 +19,8 @@ In this project, only the validation part of the dataset will be used, with the 
   When running the notebook, be careful to write the correct path to the folder with the mappingDataset.tar file in the cell with the file extraction.
 
 ### _Content:_
-- _MappingChallenge.ipyinb_: main notebook
+- _MappingChallenge.ipynb_: main notebook
+- _final_model.pth_: weights of trained model (U-Net with ResNet101 backbone)
 
 
 
