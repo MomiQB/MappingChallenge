@@ -19,7 +19,7 @@ In this project, only the validation part of the dataset will be used, with the 
   When running the notebook, be careful to write the correct path to the folder with the mappingDataset.tar file in the cell with the file extraction.
 
 ### _Content:_
-- _MappingChallenge.ipynb_: main notebook
+- _[MappingChallenge_VaccariSimone.ipynb](https://github.com/MomiQB/MappingChallenge/blob/main/MappingChallenge_VaccariSimone.ipynb)_: main notebook
 - _final_model.pth_: weights of trained model (U-Net with ResNet101 backbone)
 - _dashboard.py_: interactive dashboard source code designed with Streamlit
 - _requirements.txt_: packages requirments to run the dashboard
