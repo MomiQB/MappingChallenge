@@ -22,8 +22,8 @@ In this project, only the validation part of the dataset will be used, with the 
 - _MappingChallenge.ipynb_: main notebook
 - _final_model.pth_: weights of trained model (U-Net with ResNet101 backbone)
 - _dashboard.py_: interactive dashboard source code designed with Streamlit
-- _requirments.txt_: packages requirments to run the dashboard
-- __
+- _requirements.txt_: packages requirments to run the dashboard
+- _000000060315.jpg_, _000000060313.jpg_: examples of images to use in the dashboard
 
 
 
