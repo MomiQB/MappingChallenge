@@ -1,5 +1,5 @@
 # MappingChallenge
-Binary segmentation on [AIcrowd Mapping Challenge]([https://pages.github.com/](https://www.aicrowd.com/challenges/mapping-challenge)) dataset to detect buildings in satellite images.
+Binary segmentation on [AIcrowd Mapping Challenge]([https://pages.github.com/](https://www.aicrowd.com/challenges/mapping-challenge) dataset to detect buildings in satellite images.
 
 > Many parts of the world have not been mapped or in many cases maps are outdated by disaster or conflict. \
 > Having detailed maps of areas with a high risk of natural disasters is fundamental to facilitate the prompt response of emergency responders. \
