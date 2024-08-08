@@ -19,11 +19,11 @@ In this project, only the validation part of the dataset will be used, with the 
   When running the notebook, be careful to write the correct path to the folder with the mappingDataset.tar file in the cell with the file extraction.
 
 ### _Content:_
-- _[MappingChallenge_VaccariSimone.ipynb](https://github.com/MomiQB/MappingChallenge/blob/main/MappingChallenge_VaccariSimone.ipynb)_: main notebook
-- _final_model.pth_: weights of trained model (U-Net with ResNet101 backbone)
-- _dashboard.py_: interactive dashboard source code designed with Streamlit
-- _requirements.txt_: packages requirments to run the dashboard
-- _000000060315.jpg_, _000000060313.jpg_: examples of images to use in the dashboard
+- [MappingChallenge_VaccariSimone.ipynb](https://github.com/MomiQB/MappingChallenge/blob/main/MappingChallenge_VaccariSimone.ipynb): main notebook
+- [final_model.pth](https://github.com/MomiQB/MappingChallenge/blob/main/final_model.pth): weights of trained model (U-Net with ResNet101 backbone)
+- [dashboard.py](https://github.com/MomiQB/MappingChallenge/blob/main/dashboard.py): interactive dashboard source code designed with Streamlit
+- [requirements.txt](https://github.com/MomiQB/MappingChallenge/blob/main/requirements.txt): packages requirments to run the dashboard
+- [000000060315.jpg](https://github.com/MomiQB/MappingChallenge/blob/main/000000060315.jpg), [000000060313.jpg](https://github.com/MomiQB/MappingChallenge/blob/main/000000060313.jpg): examples of images to use in the dashboard
 
 
 
