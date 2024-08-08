@@ -8,7 +8,7 @@ https://www.aicrowd.com/challenges/mapping-challenge
 > Machine Learning and AI can help drawing accurate maps.
 
 
-The **Mapping Challenge Dataset** (available at https://www.aicrowd.com/challenges/mapping-challenge/dataset_files) consists of 280,741 training images, 60,317 validation images, and 60,697 testing images, all of size 300x300. In addition, for the training and validation set we also have the corresponding annotations in MS COCO format. These provide the information to construct the binary masks to use for training. 
+The **Mapping Challenge Dataset** (available at https://www.aicrowd.com/challenges/mapping-challenge/dataset_files) consists of 280,741 training images, 60,317 validation images, and 60,697 testing images, all of size 300x300. In addition, for the training and validation set we also have the corresponding annotations in MS COCO format. These provide the information to construct the binary masks to use for training. \
 In this project, only the validation part of the dataset will be used, with the corresponding annotations. The **goal** is to design and train a robust model to perform binary segmentation and detect the buildings. Image processing techniques will be applied to further improve the quality of the predicted masks.
 
 ***Content:***
